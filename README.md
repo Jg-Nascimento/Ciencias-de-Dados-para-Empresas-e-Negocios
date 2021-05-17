@@ -3,7 +3,7 @@ Estudos de casos de diversos departamentos de uma Empresa utilizando Ciências d
 
 Data Science aplicado em 6 problemas reais de negócios! 
 
-Marketing - Entender os habitos dos clientes, para separá-los por grupos de interesse e assim poder direcionar campanhas de Marketing de forma mais específica
+Marketing - Entender os hábitos dos clientes, para separá-los por grupos de interesse e assim poder direcionar campanhas de Marketing de forma mais específica
 
 Vendas - 
 
