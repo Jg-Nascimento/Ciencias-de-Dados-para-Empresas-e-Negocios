@@ -1,4 +1,4 @@
-# Ciência de Dados para Empresas e Negócios
+# Ciências de Dados para Empresas e Negócios
 
    ![Logo of the project](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.9oDabC6w9KDnYcjuBx6TjAHaDX%26pid%3DApi&f=1)
  
