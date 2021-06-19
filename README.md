@@ -14,7 +14,7 @@
 
   Vendas - 
 
-  RH - 
+  RH - Saber quando um funcionário pode deixar a Empresa
 
   Relações Públicas - 
 
